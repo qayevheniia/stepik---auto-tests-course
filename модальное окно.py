@@ -31,5 +31,5 @@ finally:
     time.sleep(10)
     browser.quit()
 
-# надеюсь это выдет 
+# надеюсь это выдет
 
